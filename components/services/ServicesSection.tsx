@@ -213,20 +213,6 @@ export function ServicesSection() {
                   loading="lazy"
                 />
               </div>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={END_ASSETS.familyDesktop}
-                alt="Doctors' family"
-                className="services__end__image__image services__end__image__image--desktop"
-                loading="lazy"
-              />
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={END_ASSETS.familyMobile}
-                alt="Doctors' family"
-                className="services__end__image__image services__end__image__image--mobile"
-                loading="lazy"
-              />
             </div>
 
             <div className="services__end__heading">

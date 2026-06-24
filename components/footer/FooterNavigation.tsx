@@ -124,16 +124,6 @@ export function FooterNavigation() {
             {COPYRIGHT_NAME} © {year}
           </p>
         </div>
-        <div className="legal__entry">
-          <a
-            href="https://www.3200kelvin.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text text--legal"
-          >
-            website by 3200 Kelvin
-          </a>
-        </div>
       </div>
     </div>
   );

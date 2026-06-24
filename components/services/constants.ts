@@ -53,8 +53,6 @@ export const SERVICE_IMAGES = [
 
 export const END_ASSETS = {
   logo: BRAND_ASSETS.logoMark,
-  familyDesktop: `${SERVICES_CDN}/6835e97203d2245cc07d_7145f339a144e4c81564f2adc1a1ca4e_family.avif`,
-  familyMobile: `${SERVICES_CDN}/6835e9a22890d7203_2546bfd66de8cf0f4fa5b2e555ad80bb_family-mob.avif`,
 };
 
 export const SERVICE_STEPS = SERVICES_COPY.steps;
