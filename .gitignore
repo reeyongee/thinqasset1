@@ -23,6 +23,10 @@
 # misc
 .DS_Store
 *.pem
+.tmp/
+.cursor-assets/
+hero-*.png
+iwc-*.png
 
 # debug
 npm-debug.log*
